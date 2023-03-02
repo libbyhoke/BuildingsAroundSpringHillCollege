@@ -1,9 +1,9 @@
 {
     "meta": {
         "app_id": "org.example.same.identifier.manifest.package",
-        "app_title": "City Street Heritage",
+        "app_title": "Buildings Around Spring Hill College",
         "version": 1,
-        "updated": "2022-09-26",
+        "updated": "2023-03-02",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": ""
@@ -26,8 +26,8 @@
                     "id": "uniqueID",
                     "lat": "50.8789629",
                     "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "type": "Building",
+                    "name": "Barter Student Center",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
