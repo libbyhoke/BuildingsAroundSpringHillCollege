@@ -56,6 +56,23 @@
                         "https://example.org/mypoi"
                     ]
                 }
+                     {
+                    "id": "uniqueID",
+                    "lat": "50.8789629",
+                    "lon": "4.7013242",
+                    "type": "statue",
+                    "name": "My Statue",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                    ],
+                    "description": "One-paragraph description",
+                    "more": "More description, if you want",
+                    "urls": [
+                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
+                        "https://example.org/mypoi"
+                    ]
+                },
             ]
         }
     }
