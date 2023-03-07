@@ -37,7 +37,7 @@ The Spring Hill College Barter Student Center is more than just a building, it i
 ",
                     "more":[]
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
+                        "https://en.wikipedia.org/wiki/Spring_Hill_College",
                     ]
                 },
                 {
@@ -55,8 +55,7 @@ In addition to its collection, the library is equipped with cutting-edge technol
 ",
                     "more": []
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://en.wikipedia.org/wiki/Spring_Hill_College"
                     ]
                 }
                      {
@@ -74,8 +73,7 @@ Yenni Hall is more than just a building, it is a symbol of the rich intellectual
 ",
                     "more":[]
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
+                        "https://en.wikipedia.org/wiki/Spring_Hill_College"
                     ]
                 },
 {
@@ -95,8 +93,7 @@ St. Joseph's Chapel at Spring Hill College is a special place that touches the l
 ",
                     "more":[]
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
+                        "https://en.wikipedia.org/wiki/Spring_Hill_College"
                     ]
 {
                     "id": "uniqueID",
@@ -114,8 +111,7 @@ New Hall at Spring Hill College is more than just a place to live, it is a commu
 ",
                     "more":[]
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
+                        "https://en.wikipedia.org/wiki/Spring_Hill_College"
                     ]
             ]
         }
