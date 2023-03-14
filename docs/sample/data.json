@@ -44,9 +44,7 @@
                     "lon": "88.136557",
                     "type": "Building",
                     "name": "Burke Memorial Library",
-                    "images": [
-                        "https://github.com/libbyhoke/BuildingsAroundSpringHillCollege/blob/8baae334150c5b1ad5ca676effcfddebd7297f59/docs/sample/images/Burke%20Memorial%20Library.jpg",
-                    ],
+                    "images": ["https://github.com/libbyhoke/BuildingsAroundSpringHillCollege/blob/8baae334150c5b1ad5ca676effcfddebd7297f59/docs/sample/images/Burke%20Memorial%20Library.jpg"],
                     "description": "The Burke Memorial Library at Spring Hill College is a hub of intellectual activity for students and faculty. Located in the heart of the campus, the building is a beautiful and spacious structure, filled with natural light and quiet study spaces. The library's collection is extensive, containing hundreds of books, journals, and multimedia resources on a wide range of subjects. The knowledgeable librarians are always available to help students find the resources they need and assist with research projects. In addition to its collection, the library is equipped with cutting-edge technology, including computers, printers, and study rooms equipped with audiovisual equipment. The building is also home to several special collections, including rare books, archives, and manuscript collections, which are of a particular interest to history, literature, and art students.",
                     "more": "",
                     "urls": [
