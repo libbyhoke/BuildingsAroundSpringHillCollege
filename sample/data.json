@@ -35,8 +35,8 @@
                 },
                 {
                     "id": "uniqueID-2",
-                    "lat": "30.695295122278456",
-                    "lon": "-88.13650460000001",
+                    "lat": "30.69455243514897",
+                    "lon": "-88.13648314481861",
                     "type": "Building",
                     "name": "Burke Memorial Library",
                     "images": ["https://raw.githubusercontent.com/libbyhoke/BuildingsAroundSpringHillCollege/8baae334150c5b1ad5ca676effcfddebd7297f59/docs/sample/images/Burke%20Memorial%20Library.jpg"],
