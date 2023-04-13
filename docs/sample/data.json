@@ -23,7 +23,7 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
+                    "id": "uniqueID-1",
                     "lat": "30.69486068306875",
                     "lon": "-88.13837593132418",
                     "type": "Building",
@@ -45,7 +45,7 @@
                     "urls": ["https://libguides.shc.edu/burkelibrary"]
                 },
                      {
-                    "id": "uniqueID",
+                    "id": "uniqueID-3",
                     "lat": "30.6935",
                     "lon": "-88.1382",
                     "type": "Building",
@@ -55,8 +55,8 @@
                     "more":"",
                     "urls": ["https://en.wikipedia.org/wiki/Spring_Hill_College"]
                 },
-{
-                    "id": "uniqueID",
+                {
+                    "id": "uniqueID-5",
                     "lat": "30.6937",
                     "lon": "-88.1371",
                     "type": "Building",
@@ -65,9 +65,9 @@
                     "description": "St. Joseph's Chapel at Spring Hill College is a beautiful and peaceful place of worship that is at the heart of the campus. The chapel was built in the Gothic Revival style and was a testament to the deep faith of the college community. The chapel is a popular destination for students and faculty, offering daily Mass and weekly Confession services, as well as other liturgical celebrations throughout the year. It is also a place for quiet reflection and personal spiritual growth, with its peaceful atmosphere and stunning stained-glass windows. St. Joseph's Chapel is more than just a place of worship, it is a symbol of the college's rich spiritual heritage. The chapel is a reminder of the values of the Jesuit tradition, which emphasized the importance of education, service, and faith. The chapel is also a place of community, bringing together students, faculty, and staff from all walks of life. It is a place where people could come together to pray, reflect, and support each other, no matter their beliefs or backgrounds. St. Joseph's Chapel at Spring Hill College is a special place that touches the lives of everyone who enters its doors. It is a place where people can find solace, inspiration, and a sense of belonging, making it an integral part of the college's history and culture.",
                     "more":"",
                     "urls": ["https://badgerweb.shc.edu/ICS/Campus_Life/Campus_Ministry.jnz"]
-},
-{
-                    "id": "uniqueID",
+                },
+                {
+                    "id": "uniqueID-6",
                     "lat": "30.6937",
                     "lon": "-88.1353",
                     "type": "Building",
@@ -76,8 +76,8 @@
                     "description": "New Hall at Spring Hill College is a state-of-the-art residence hall that was built in response to the growing demand for on-campus housing. The hall was designed with the comfort and convenience of students in mind and is equipped with all the amenities they needed to live and study comfortably. The rooms in New Hall are spacious and well-appointed, with comfortable beds, desks, and closets for each student. The building also features a large common area, complete with a kitchen, lounge, and TV, where students can gather to study, socialize, and relax. The location of New Hall is also ideal, situated just a short walk from the main academic buildings, dining hall, and student center. This makes it easy for students to get to their classes, grab a bite to eat, or participate in campus events. New Hall at Spring Hill College is more than just a place to live, it is a community. The hall fostered a sense of camaraderie and inclusiveness, making it a place where students could grow, both academically and personally.",
                     "more":"",
                     "urls": ["https://en.wikipedia.org/wiki/Spring_Hill_College"]
-}
-            ]
+            }
+          ]
         }
     }
 }
